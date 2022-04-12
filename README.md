@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pis03133/pis03133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +15,5 @@ Here are some ideas to get you started:
 
 <h1>WelCome Inseo's github</h1>
 
-- 🔭 I’m currently working on ... WITH SYSTEM
+- 🔭 I’m currently working on ... (주)WITH SYSTEM
+- 🌱 I’m currently learning ... Nginx Docker
