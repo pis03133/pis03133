@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 <h1>WelCome Inseo's github</h1>
 
-- 🔭 I’m currently working on ... (주)WITH SYSTEM
+- 🔭 I’m currently working on ... (주)WITH SYSTEM (21.12.20 ~ 22.06.14)
 - 🌱 I’m currently learning ... Nginx Docker
